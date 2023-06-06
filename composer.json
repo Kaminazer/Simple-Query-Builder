@@ -1,0 +1,19 @@
+{
+    "name": "nazar/query-builder",
+    "description": "Simple sql-query builder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Builder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazarii Korol",
+            "email": "nazarkorol3684@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
